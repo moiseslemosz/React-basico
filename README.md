@@ -1,2 +1,2 @@
 # React-basico
-Created with CodeSandbox
+Projeto básico sobre uma lista de tarefas utilizando React 
